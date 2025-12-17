@@ -19,6 +19,7 @@ OpenAPI
 Scalar UI
 
 🧱 API İçerikleri
+
 GET /api/home/trigger
 
 Test amaçlı olarak bilinçli şekilde exception fırlatır
@@ -44,8 +45,10 @@ API sözleşmesi OpenAPI standardı ile oluşturulmuştur.
 Endpoint’ler Scalar UI üzerinden görüntülenebilir ve test edilebilir.
 
 /openapi
+
 📝 Log Yapısı
 
 Loglar JSON formatında dosyaya yazılır
 
 Hata durumlarında exception ve stack trace bilgileri loglanır
+
