@@ -1,0 +1,6 @@
+@Dotnet_Serilog_Logging_Sample_HostAddress = http://localhost:5048
+
+GET {{Dotnet_Serilog_Logging_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

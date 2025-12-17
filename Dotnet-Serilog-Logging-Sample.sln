@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Serilog-Logging-Sample", "Dotnet-Serilog-Logging-Sample\Dotnet-Serilog-Logging-Sample.csproj", "{074D5DD0-C109-455F-B599-D37DFF0009C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074D5DD0-C109-455F-B599-D37DFF0009C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074D5DD0-C109-455F-B599-D37DFF0009C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074D5DD0-C109-455F-B599-D37DFF0009C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074D5DD0-C109-455F-B599-D37DFF0009C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4411B4CE-91DE-400B-A978-979232D87566}
+	EndGlobalSection
+EndGlobal
